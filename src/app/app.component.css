@@ -1,0 +1,71 @@
+table {
+    width: 100%;
+  }
+
+  .mat-column-ID {
+    width: 1px;
+    border-right: 1px solid currentColor;
+    padding-right: 1px;
+    text-align: center;
+  }
+
+  .mat-column-Titolo {
+    width: 50px;
+    padding-right: 24px;
+    text-align: center;
+  }
+
+  .mat-column-Autore {
+    width: 50px;
+    padding-right: 24px;
+    text-align: center;
+  }
+
+  .mat-column-Titolo {
+    width: 50px;
+    padding-right: 24px;
+    text-align: center;
+  }
+
+  .mat-column-Prezzo {
+    width: 50px;
+    padding-right: 24px;
+    text-align: center;
+  }
+
+  .mat-column-Opzioni {
+    width: 50px;
+    padding-right: 24px;
+    text-align: center;
+  }
+
+  .canc {
+    display: table-cell;
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 30px;
+    background-color:crimson;
+    color: white;
+  }
+
+  .update {
+    display: table-cell;
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 30px;
+    background-color:green;
+    color: white;
+  }
+
+  .add {
+    display: table-cell;
+    font-size: 14px;
+    margin-left: 8px;
+    min-width: 30px;
+    background-color:darkblue;
+    color: white;
+  }
+
+  .headers {
+    font-size: 18px;
+  }
